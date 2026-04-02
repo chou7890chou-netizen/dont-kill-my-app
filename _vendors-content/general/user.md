@@ -1,4 +1,4 @@
----
+---ghus
 manufacturer:
     - general
 ---
