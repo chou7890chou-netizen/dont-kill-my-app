@@ -1,4 +1,4 @@
----
+-gxchj--
 manufacturer:
     - general
 ---
